@@ -10,15 +10,16 @@
 
 但是没有想到的是，最后居然直接玩消失，无法联系
 
-最后做的一个 oikos-music 的项目，做完的日期是 2022 年 8 月 8 号（ git 提交记录），一直也不好意思催他要钱，9 月一号跟我发的消息说 9 月底给
+**最后做的一个 oikos-music 的项目，做完的日期是 2022 年 8 月 8 号（ git 提交记录），一直也不好意思催他要钱，9 月一号跟我发的消息说 9 月底给**
 
 ![aa](https://i.imgur.com/nYWmsp2.png)
 
-然后就是。。。到了十月多，还没动静，就跟他联系，结果就是在 slack 被踢, 在 twitter 被 block
+**然后就是。。。到了十月多，还没动静，就跟他联系，结果就是在 slack 被踢, 在 twitter 被 block**
 
 最近找远程工作的挺多，希望大家保持善良，但是也不要被坏人欺骗。
 
+[该文档tweet记录](https://twitter.com/ryoplv/status/1665708820255977475)
+
 这个诈骗犯的社交帐号是：
 
-![aa](https://i.imgur.com/F3t34PT.jpg)
-![aa](https://i.imgur.com/mBuwPhA.jpg)
+![gavinzhm-scammer](https://i.imgur.com/o8lxWAd.jpg)
